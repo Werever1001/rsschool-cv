@@ -1,0 +1,54 @@
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', sans-serif;
+    background-color: #f8f2e2;
+    line-height: 140%;
+}
+
+.photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.name {
+    position: relative;
+    width: 50%;
+    height: 250px;
+    font-weight: 600px;
+    text-align: center;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.contacts {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    width: 50%;
+    height: 250px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+    font-family: Arial, Futura, sans-serif;
+    font-size: 18px;
+}
+    
+.target-links {
+    display: flex;
+}
+
+.content {
+    padding-left: 50px;
+}
+
+h1 {
+    color: #2D2C28;
+}
+h2 {
+    color: #640000;
+}
