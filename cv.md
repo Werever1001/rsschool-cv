@@ -1,6 +1,6 @@
 # Yanina Kisialevich
 
-
+![](https://i.imgur.com/cYe2qj4.jpg)
 ### Contacts:
 
 - E-mail:  _werever@inbox.ru_
