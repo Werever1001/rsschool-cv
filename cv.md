@@ -22,7 +22,7 @@ Passionate about learning technology and exploring new possibilities. Keep impro
 -  JavaScript
 -  MySQL
 -  Git
--  Wordpress 
+-  Webpack 
 
 ### Graduation:
 
@@ -30,4 +30,5 @@ _Belarus State Economic University 2006 - 2010_
 
 ### English level:
 
-B1 - Intermediate
+B1 - Intermediate according to EPAM Training Center
+C1 - Advanced according to EF Standard English Test [https://www.efset.org/cert/eYXZCQ](url)
