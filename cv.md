@@ -7,8 +7,8 @@
 - Phone number:  _+375333475005_
 - Skype:  _yanina_by_
 - Telegram:  _@acc_deleted_
-- LinkedIn:  [https://www.linkedin.com/in/yana-by](url)
-- GitHub:  [https://github.com/Werever1001](url)
+- LinkedIn:  [yana-by](https://www.linkedin.com/in/yana-by/)
+- GitHub:  [Werever1001](https://github.com/Werever1001)
 
 ### About me:
 
@@ -30,5 +30,5 @@ _Belarus State Economic University 2006 - 2010_
 
 ### English level:
 
-B1 - Intermediate according to EPAM Training Center
->C1 - Advanced according to EF Standard English Test [https://www.efset.org/cert/eYXZCQ](url)
+B1 - Intermediate according to EPAM Training Center  
+C1 - Advanced according to [EF Standard English Test](https://www.efset.org/cert/eYXZCQ)
