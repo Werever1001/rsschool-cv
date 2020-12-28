@@ -45,7 +45,6 @@ body {
     font-size: 0px;
     height: 20px;
     width: 18px;
-
 }
 
 .content {
@@ -57,4 +56,7 @@ h1 {
 }
 h2 {
     color: #490d0dfd;
+}
+a {
+    text-decoration: none;
 }
