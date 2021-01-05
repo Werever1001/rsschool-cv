@@ -41,13 +41,6 @@ body {
     line-height: 20px;
 }
     
-.target-links {
-    font-size: 0px;
-    height: 20px;
-    width: 18px;
-
-}
-
 .content {
     padding-left: 50px;
 }
@@ -57,4 +50,12 @@ h1 {
 }
 h2 {
     color: #490d0dfd;
+}
+a {
+    text-decoration: none;
+    color: #666;
+    margin: 0 5px;
+}
+.target-links {
+    padding-top: 10px;
 }
